@@ -1,10 +1,3 @@
-**NOTE: We're working hard to get a new release out that includes React v16, Enzyme v3, Webpack v4, Redux v4, and more. Please bear with us while we wait for some external dependency issues to clear and can get these updates fully vetted and released. Please feel free to use the dev branch if you'd like to use upgraded features, but know that it still hasn't been released.**
-
-<img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
-
-<br />
-
-<div align="center"><strong>Start your next react project in seconds</strong></div>
 <div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
 
 <br />
@@ -23,8 +16,8 @@
     <img src="https://travis-ci.org/sghiassy/Web.svg" alt="Build Status" />
   </a>
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/sghiassy/Web">
-    <img src="https://coveralls.io/repos/github/sghiassy/Web/badge.svg" alt="Test Coverage" />
+  <a href='https://coveralls.io/github/sghiassy/Web'>
+    <img src='https://coveralls.io/repos/github/sghiassy/Web/badge.svg' alt='Coverage Status' />
   </a>
 </div>
 
